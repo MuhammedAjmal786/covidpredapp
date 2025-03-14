@@ -16,7 +16,7 @@ This repository contains implementations and analyses related to Covid predictio
 ## 📂 Project Structure
 ```
 ├── 📂 Copy of covid 19 affects-Copy2 (1)                # Exploratory Data Analysis (EDA) scripts
-├── 📂 Coviapp      # Streamlit-based Diabetes Prediction app
+├── 📂 Coviapp      # Streamlit-based Covid Prediction app
 ├──  decision_tree_model_covid         # Saved model using pickle
 ├──  Data_Copy of covid_affect - Copy of covid_affect        # Dataset
 ├──  covid_preprocessed_data       # Preprocessed Dataset
